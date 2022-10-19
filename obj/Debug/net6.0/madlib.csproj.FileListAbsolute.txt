@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.AssemblyInfo.cs
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\codeclass\madlib\bin\Debug\net6.0\madlib.exe
+C:\Users\Mark\Desktop\codeclass\madlib\bin\Debug\net6.0\madlib.deps.json
+C:\Users\Mark\Desktop\codeclass\madlib\bin\Debug\net6.0\madlib.runtimeconfig.json
+C:\Users\Mark\Desktop\codeclass\madlib\bin\Debug\net6.0\madlib.dll
+C:\Users\Mark\Desktop\codeclass\madlib\bin\Debug\net6.0\madlib.pdb
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.dll
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\refint\madlib.dll
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.pdb
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\madlib.genruntimeconfig.cache
+C:\Users\Mark\Desktop\codeclass\madlib\obj\Debug\net6.0\ref\madlib.dll

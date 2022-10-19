@@ -1,5 +1,5 @@
 ﻿//  mark ramirez
-//  started 9/8/2022
+//  started 10/19/2022
 //  mad lib story
 
 Console.Clear();
